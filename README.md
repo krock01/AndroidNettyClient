@@ -1,0 +1,3 @@
+# AndroidNettyClient
+安卓端netty长连接和重连简单实现简单实现
+里面有些实验代码！各位看官请无视
